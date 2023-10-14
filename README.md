@@ -30,7 +30,7 @@ and if some numbers are correct the program tells you how much number are correc
 
 ```bash
 # Clone the repository
-git clone https://github.com/your_username/guess-game.git
+git clone https://github.com/Ysn23/C_PR1.git
 
 # Navigate to the project directory
 cd C_PR1/
