@@ -1,5 +1,7 @@
 # Guess Game
 
+[![Sherlock Holmes - A Game of Shadows](https://img.youtube.com/vi/fhILJ3oXKkY/0.jpg)](https://www.youtube.com/watch?v=fhILJ3oXKkY)
+
 A simple command-line based number guessing game written in C.
 
 ## Description
